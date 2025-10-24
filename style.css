@@ -1,0 +1,6 @@
+body{font-family:'Cairo',sans-serif;background:#f7fbfe;margin:0;text-align:center;direction:rtl;}
+header{background:#7ec8e3;padding:10px;color:#fff;}nav{margin:10px;background:#bfe9f7;padding:8px;border-radius:10px;}
+nav a{margin:0 6px;text-decoration:none;color:#0a3b57;font-weight:bold;}main{padding:15px;}
+.child{color:#0a5f8c;font-size:18px;}.parent{color:#333;font-size:15px;}
+footer{background:#bfe9f7;padding:8px;margin-top:20px;}.video-container{margin:10px auto;max-width:560px;}
+.plan h3{margin:10px 0;color:#0a3b57;}.plan p{background:#fff;padding:8px;border-radius:6px;}
